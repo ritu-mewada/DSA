@@ -1,5 +1,6 @@
 # Dynamic Programming
 It is used when storage capacity is not to be considered to eveluate performance of an algorithm.
+It follows priciple of optimality.
 
 Problems can be solved using dynamic programming is as follows:
 1.  Binomial Coefficient
