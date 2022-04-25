@@ -1,5 +1,6 @@
 # Queue
 Queue follows First In First Out principle.
+
 Queue has two pointers:
 1. Front: Points to first element of the queue
 2. Rear: Points to last element of the queue
